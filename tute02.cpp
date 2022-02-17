@@ -15,7 +15,7 @@ Please Note that the input command in C++ is std::cin. This is a representation 
 #include <stdio.h>
 int main()
 {
-   double salary, netSalary;
+   double salary, netSalary:
    int etype, otHrs, otRate;
    printf("Enter Employee Type : ");
    scanf("%d", &etype);

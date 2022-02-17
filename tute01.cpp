@@ -21,7 +21,7 @@ printf("Hello World") --> std::cout << "Hello World";
 #include <stdio.h>
 int main() 
 {
-    float cm, inches;
+    float cm, inches:
     printf("Enter a length in cm : ");
     scanf("%f",&cm);
     inches = cm / 2.54;
